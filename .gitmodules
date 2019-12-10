@@ -1,0 +1,3 @@
+[submodule "cow"]
+	path = cow
+	url = https://github.com/collabTester18/cow
